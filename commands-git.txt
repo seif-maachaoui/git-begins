@@ -5,3 +5,6 @@ Les 3 commandes de push :
 git remote add origin (ici placer le lien d'un dépot existant)
 git branch -M main
 git push -u origin main
+
+La commande pour pull :
+git pull [<options>] [<repository> [<refspec>]
